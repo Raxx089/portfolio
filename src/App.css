@@ -5,7 +5,8 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Quicksand', sans-serif;
 }
 .header {
   width: 100%;
@@ -340,7 +341,7 @@ body {
   align-items: center;
   justify-content: center;
   color: #fff;
-  background: #1f2235;
+  background: #260b2b;
   margin: 0 10px;
   transition: all 0.5s linear;
   cursor: pointer;
